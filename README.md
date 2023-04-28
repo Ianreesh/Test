@@ -1,2 +1,3 @@
-# Test
+theme: minima
+
 test
