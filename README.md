@@ -1,3 +1,2 @@
-theme: minima
-
-test
+# This is a comment
+# Each line follows its own pattern
